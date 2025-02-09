@@ -53,7 +53,7 @@ dev_dependencies:
 flutter:
   assets:
     - assets/DC.png
-    - assets/Bolas.png
+    - assets/JJK.png
 
 
   # The following line ensures that the Matfluerial Icons font is
